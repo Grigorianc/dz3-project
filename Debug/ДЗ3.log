@@ -1,0 +1,4 @@
+﻿  ДЗ3.cpp
+C:\Users\Artiom\source\repos\ДЗ3\ДЗ3.cpp(52,34): warning C4101:  salary: неиспользованная локальная переменная
+C:\Users\Artiom\source\repos\ДЗ3\ДЗ3.cpp(52,42): warning C4101:  premy: неиспользованная локальная переменная
+  ДЗ3.vcxproj -> C:\Users\Artiom\source\repos\ДЗ3\Debug\ДЗ3.exe
